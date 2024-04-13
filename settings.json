@@ -1,0 +1,86 @@
+{
+    "debug.onTaskErrors": "debugAnyway",
+    "editor.fontLigatures": true,
+    "editor.fontVariations": true,
+    "terminal.integrated.smoothScrolling": true,
+    "terminal.integrated.fontFamily": "Consolar",
+    "workbench.settings.applyToAllProfiles": [
+        "terminal.integrated.fontFamily",
+        "editor.fontFamily"
+    ],
+
+
+
+    "workbench.colorTheme": "Evondev Dracula Darker Contrast",
+    "files.autoSave": "afterDelay",
+    "workbench.editor.empty.hint": "hidden",
+    "json.schemas": [
+
+
+    ],
+
+    "background.enabled": true,
+"background.loop": false,
+"background.useDefault": false,
+"background.style": {
+"content": "''",
+"pointer-events": "none",
+"position": "center",
+"z-index": "99999",
+"width": "100%",
+"height": "100%",
+"background-size": "cover",
+"background-repeat": "no-repeat",
+"opacity": 0.2
+},
+"background.customImages": [
+"file:///C:/Users/Moderator/Pictures/Camera%20Roll/rem.jpg",
+"file:///C:/Users/Moderator/Pictures/Camera%20Roll/image.jpg"
+],
+"java.completion.favoriteStaticMembers": [
+    
+    "org.junit.Assert.*",
+    "org.junit.Assume.*",
+    "org.junit.jupiter.api.Assertions.*",
+    "org.junit.jupiter.api.Assumptions.*",
+    "org.junit.jupiter.api.DynamicContainer.*",
+    "org.junit.jupiter.api.DynamicTest.*",
+    "org.mockito.Mockito.*",
+    "org.mockito.ArgumentMatchers.*",
+    "org.mockito.Answers.*"
+],
+"editor.tabSize": 8,
+"editor.tabCompletion": "on",
+
+"vscode_custom_css.imports": [
+    "file:///C:/Users/Moderator/Music/color.css"
+],
+"editor.mouseWheelZoom": true,
+"terminal.integrated.mouseWheelZoom": true,
+"editor.lineHeight": 30,
+"editor.fontFamily": "SF Mono, Source Code Pro",
+
+"editor.tokenColorCustomizations": {
+    "[Evondev Dracula Darker Contrast]": {
+        "textMateRules": [
+            {
+                "scope": "punctuation.section.class.begin.bracket.curly.java",
+                "settings": {
+                    "foreground": "#FF0000",
+                    "fontStyle": "bold"
+                }
+            }
+        ]
+    }
+},
+"terminal.integrated.fontWeightBold": "bold",
+"editor.fontWeight": "bold",
+"cmake.showOptionsMovedNotification": false,
+"window.zoomLevel": -0.5,
+"editor.letterSpacing": 0.3,
+"cmake.configureOnOpen": true,
+"chat.editor.fontWeight": "",
+}
+
+
+
